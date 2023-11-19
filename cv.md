@@ -27,7 +27,9 @@ return number + 2;
 }
 ```
 
-
+## Work Experience
+- EDRCoin.com –Junior Front End Developer  2017- 2019
+**Used Technologies:**  HTML, CSS, PHP, Laravel
 
 ## Education
 - Igor Sikorsky Kyiv Polytechnic Institute (Computer Science, 2018)
